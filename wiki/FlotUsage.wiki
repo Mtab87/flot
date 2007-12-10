@@ -4,4 +4,4 @@
 
 Here are some projects using Flot:
 
-* [http://aegis.ucolick.org/products/MTR/explore.html AEGIS Sed Explorer]
+  * [http://aegis.ucolick.org/products/MTR/explore.html AEGIS Sed Explorer]
