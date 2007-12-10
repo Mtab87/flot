@@ -1,0 +1,7 @@
+#summary Projects using Flot
+
+= Projects using flot =
+
+Here are some projects using Flot:
+
+* [http://aegis.ucolick.org/products/MTR/explore.html AEGIS Sed Explorer]
